@@ -1,20 +1,20 @@
 #image1 {
-    height: 1000px;
-    width: 2200px;
+    height: 1080px;
+    width: 1920px;
     background: url("/assets/images/stance.jpeg");
-    background-size: 2000px 1000px;
+    background-size: 1920px 1080px;
   }
   #image2 {
-    height: 1000px;
-    width: 2000px;
+    height: 1080px;
+    width: 1920px;
     background: url("/assets/images/thirst.jpg");
-    background-size: 2000px 1000px;
+    background-size: 1920px 1080px;
   }
   #image3 {
-    height: 1000px;
-    width: 2000px;
+    height: 1080px;
+    width: 1920px;
     background: url("/assets/images/yearbook.jpeg");
-    background-size: 2000px 1000px;
+    background-size: 1920px 1080px;
   }
   
   .center {
